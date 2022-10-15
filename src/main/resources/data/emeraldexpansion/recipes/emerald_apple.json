@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eee",
+    "eae",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "a": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "emeraldexpansion:emerald_apple"
+  }
+}
